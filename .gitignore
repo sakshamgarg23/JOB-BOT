@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.npm-cache/
+.env
+.env.local
+.local/
+data/
+test-results/
+*.tsbuildinfo
+*.log
+*.pdf
+*.docx
